@@ -1,6 +1,7 @@
 #  Messy Mashup – Music Genre Classification
 
 This project focuses on building a robust deep learning system for **music genre classification under noisy mashup conditions**.
+Kaggle Link : https://www.kaggle.com/competitions/jan-2026-dl-gen-ai-project
 
 ##  About the Project
 - Developed for the **Messy Mashup competition**
